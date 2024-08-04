@@ -1,0 +1,12 @@
+body{
+    min-width: 300px;
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(135deg, #f7f9fc 0%, #a8c9f3 100%);
+    color: #333333;
+    border: 1px solid #30378e;
+    border-radius: 8px;
+    box-shadow: 0 14px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    
+    
+}

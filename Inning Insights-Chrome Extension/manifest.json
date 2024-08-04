@@ -1,0 +1,17 @@
+{
+    "name": "Inning Insights",
+    "version": "0.0.1",
+    "description":"Built for fun!",
+    "manifest_version": 3,
+    "author": "Divya Shukla",
+    "icons":{
+        "128": "logo.png"
+    },
+    "action":{
+        "default_icon":{
+            "128": "logo.png"
+        },
+        "default_popup": "popup.html",
+        "default_title": "Live Cricket Scores"
+    }
+}
